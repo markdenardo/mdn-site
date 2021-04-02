@@ -3,7 +3,7 @@ import VideoCard from './VideoCard'
 
 const Carousel = () => {
 return(
-    <div className="Carousel">Carousel
+    <div className="Carousel">
     <VideoCard/>
     </div>
 )

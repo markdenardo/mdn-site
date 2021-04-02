@@ -4,7 +4,7 @@ function VideoCard() {
   return (
     <div className="App">
       <header className="App-header">
-        <Vimeo video="https://vimeo.com/168422600" autoplay />
+        <Vimeo video="https://vimeo.com/532356163" autoplay />
       </header>
     </div>
   );

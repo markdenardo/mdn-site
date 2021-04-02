@@ -1,7 +1,8 @@
 .App {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Executive-Regular;
+  color: white;
   font-weight: 500;
   display: flex;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
   
 }
