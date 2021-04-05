@@ -6,3 +6,11 @@
   /* flex-direction: row-reverse; */
   
 }
+
+p5{
+  z-index: 1;
+}
+
+vimeo{
+  z-index: -1;
+}

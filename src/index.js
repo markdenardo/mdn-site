@@ -7,6 +7,7 @@ import "./fonts/Executive-Regular.otf";
 
 ReactDOM.render(
   <React.StrictMode >
+    
     <App />
   </React.StrictMode>,
   document.getElementById('root')
