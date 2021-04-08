@@ -12,16 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Header />
-        <P5Wrapper className="p5" sketch={sketch}><Vimeo className="vimeo" video={videos[0]} /></P5Wrapper>
-        
-
-        {/* <Carousel
-          carouselItems={[
-            <Vimeo video={videos[0]} />,
-            <Vimeo video={videos[0]} />,
-            <Vimeo video={videos[0]} />,
-          ]}
-        /> */}
+        <Vimeo className="vimeo" video={videos[0]} />
       </header>
     </div>
   );
