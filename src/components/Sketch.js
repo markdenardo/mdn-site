@@ -1,10 +1,10 @@
 
 
-function sketch(p) {
+function Sketch(p) {
   let rotation = 0;
 
   p.setup = function () {
-    p.createCanvas(1000, 1000);
+    p.createCanvas(200, 200);
   };
 
   p.draw = function () {
@@ -17,4 +17,4 @@ function sketch(p) {
   };
 }
 
-export default sketch;
+export default Sketch;
